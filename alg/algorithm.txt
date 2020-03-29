@@ -1,0 +1,157 @@
+怎么样写出正确代码
+283	Move Zeros					Facebook、BloombergArray
+27	Remove Element
+26	Remove Duplicated from Sorted 			Facebook、Microsoft、Bloomberg
+80	Remove Duplicated from Sorted II			Facebook
+75	Sort Colors					Facebook、Microsoft
+88	Merge Sorted Array					Facebook、Microsoft
+215	Kth Largest Element in an Array			Facebook、Microsoft、Amazon
+
+对撞指针
+167	Two Sum II					Amazon
+125	Valid Palindrome					Facebook、Microsoft
+344	Reverse String
+345	Reverse Vowels of a String				Google
+11	Container With Most Water				Bloomberg
+
+template
+https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems
+
+双索引技术Two Pointer -----滑动窗口
+209	Minimum Size Subarray Sum				facebook
+3	Longest Substring Without Repeating Characters		amazon、Adobe、yelp、Boomberg
+438	Find All Anagrams in a String				amazon
+76	Minimum Window Substring				facebook、Linkedin、uber、snapchat
+
+查找问题
+349	Intersection of Two Arrays				two sigma
+350	Intersection of Two Arrays II
+242	Valid Anagram					amazon、uber、yelp
+202	Happy Number					uber、airbnb、twitter
+290	Word Pattern					uber、dropbox
+205	Isomorphic Strings					Linkedin
+451	Sort Characters By Frequency				Google、amazon
+
+查找表问题
+1	Two Sum						Facebook、uber、Linkedin、apple、Amazon、Microsoft
+15	3Sum						Facebook、Amazon、Microsoft
+18	4Sum
+16	3Sum Closest					bloomberg
+454	4Sum II		
+49	Group Anagram					facebook、amazon、uber、bloomberg、yelp
+447	Number of Boomerangs				google
+149	Max Points on a Line				LinkedIn、twitter、apple
+
+滑动窗口+查找表
+219	Contains Duplicate II					airbnb、Palantir
+217	Contains Duplicate					airbnb、Palantir、yahoo
+220	Contains Duplicate III				airbnb、Palantir
+
+206	Reverse Linked List					Facebook、Microsoft、apple、uber、twitter
+92	Reverse Linked List II
+83	Remove Duplicates fromSorted List
+86	Partition List
+328	Odd Even Linked List
+2	Add Two Numbers					Amazon、Microsoft、adobe
+445	Add Two Numbers II					Microsoft、bloomberg
+
+设立链表的虚拟头结点
+206	Remove Linked List Elements
+82	Remove Duplicates from Sorted List II
+21	Merge Two Sorted Lists				Amazon、Microsoft、apple、Linkedin
+24	Swap Nodes in Pairs					Microsoft、Bloomberg、uber
+25	Reverse Nodes in k-Group				Facebook、Microsoft
+147	Insertion Sort List
+148	Sort List
+237	Delete Node in a Linked List				Microsoft、adobe、apple
+
+双指针技术
+19	Remove Nth Node From End of List
+61	Rotate List
+143	Recorder List
+234	Palindrome Linked List				Facebook、amazon
+
+Stack
+20	Valid Parentheses					Google、Facebook、Microsoft、twitter
+150	Evaluate Reverse Polish Notation			LinkedIn
+71	Simplify Path					Facebook、Microsoft
+
+栈和递归
+144	Binary Tree Preorder Traversal
+94	Binary Tree Inorder Traversal
+145	Binary Tree Postorder Traversal
+341	Flatten Nested List Iterator				Google、Facebook、twitter
+
+队列
+102	Binary Tree Level Order Traversal			Facebook、Amazon、Microsoft、LinkedIn、apple
+107	Binary Tree Level Order Traversal II
+103	Binary Tree Zigzag Level Order Traversal			Linkedin、Microsoft
+199	Binary Tree Right	Side View				Amazon
+
+BFS和图的最短路径
+279	Perfect Squares					Google
+127	Word Ladder					Facebook、Amazon、LinkedIn
+126	Word Ladder II					amazon、yelp
+
+优先队列
+347	Top K Frequent Elements				pocketGems、yelp
+23	Merge k Sorted Listed				Google、Facebook、Amazon、Microsoft、twitter
+
+递归和回溯
+17	Letter Combinations of a Phone Number			Google、Facebook、Amazon
+93	Restore IP Addresses
+131	Palindrome Partitioning				Bloomberg
+46	Permutations					Microsoft、LinkedIn
+47	Permutations II					Microsoft、LinkedIn
+77	Combinations
+39	Combination Sum					snapchat、uber
+40	Combination Sum II					snapchat
+216	Combination Sum III
+78	Subsets						Facebook、Amazon、uber
+90	Subsets II						Facebook
+401	Binary Watch					Google
+
+二维平面回溯
+79	Word Search					Facebook、Microsoft、Bloomberg
+
+floodfill算法
+200	Number of Islands					Google、Facebook、Microsoft、Amazon、zenefits
+130	Surrounded Regions
+417	Pacific Atlantic Water Flow				Google
+
+51	N-Queens
+52	N-Queens II					zenefits
+37	Sudoku Solver					snapchat、uber
+
+动态规划
+70	Climbing Stairs					adobe、apple
+120	Triangle
+64	Minimum Path Sum
+343	Integer Break
+279	Perfect Squares					Google
+91	Decode Ways					Facebook、Microsoft
+62	Unique Paths					Bloomberg
+63	Unique Paths II					Bloomberg
+
+状态与状态转移
+198	House Robber					LinkedIn
+213	House Robber II					Microsoft
+337	House Bobber III					uber
+309	Best Time to Buy abd Sell Stock with Cooldown		Google
+
+0-1背包问题：	每个物品只有一种
+完全背包问题 ：	每个物品可以无限使用
+多重背包问题：	每个物品不止一个，有num(i)个
+多维费用背包问题：要考虑物品重量和体积两个维度
+
+416	Partition Equal Subset Sum				eBay
+322	Cion Change
+377	Combination Sum IV					Facebook、Microsoft
+474	Ones and Zeros					Google
+139	Word Break					Google、Facebook、Amazon
+494	Target Sum					Google、Facebook
+
+300	Longest Increasing Subsequence			Microsoft
+376	Wiggle Subsequence
+	Longer Commons Subsequence
+
